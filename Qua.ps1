@@ -130,8 +130,9 @@ do {
         $TempFolder = "$PSScriptRoot\$TempFolderName"
         New-Item -ItemType Directory -Path $TempFolder | Out-Null
         $LogPath = Join-Path -Path $TempFolder -ChildPath "Log.txt"
-        Write-Log -Message "Check '$LogPath' if any error happens" -S 2
-        Write-Log -Message "Please save and close oppen apps" -S 4
+        Write-Log -Message "Use it on your own ridk, Don't forget to make a backup before using this tool" -S 3
+        Write-Log -Message "Check '$LogPath' if any error happens" -S 4
+        Write-Log -Message "Please save and close oppen apps" -S 5
         Clear-Host
     }
 } while ($FolderExists)
