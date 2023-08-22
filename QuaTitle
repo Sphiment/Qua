@@ -1,0 +1,15 @@
+Write-Qua -Text " "
+Write-Qua -Text " "
+Write-Qua -Text " "
+Write-Qua -Text " "
+Write-Qua -Text " "
+Write-Qua -Text " "
+Write-Qua -Text "${White}██████${Pink}╗${White} ██${Pink}╗   ${White}██${Pink}╗ ${White}█████${Pink}╗" -P 76
+Write-Qua -Text "██${Pink}╔═══${White}██${Pink}╗${White}██${Pink}║   ${White}██${Pink}║${White}██${Pink}╔══${White}██${Pink}╗${White}" -p 114
+Write-Qua -Text "██${Pink}║${White}   ██${Pink}║${White}██${Pink}║   ${White}██${Pink}║${White}███████${Pink}║${White}" -P 95
+Write-Qua -Text "██${Pink}║${White}▄▄ ██${Pink}║${White}██${Pink}║   ${White}██${Pink}║${White}██${Pink}╔══${White}██${Pink}║${White}" -p 114
+Write-Qua -Text "${Pink}╚${White}██████${Pink}╔╝╚${White}██████${Pink}╔╝${White}██${Pink}║  ${White}██${Pink}║${White}" -P 95
+Write-Qua -Text "${Pink}╚══${White}▀▀${Pink}${Pink}═╝  ╚═════╝ ╚═╝  ╚═╝ ${Silver}V $QuaVersion${Silver}" -P 62
+Write-Qua -Text " "
+Write-Qua -Text "══════════════════════════════════════════════════════════════════════════════" -Color $Pink
+Write-Qua -Text " "
