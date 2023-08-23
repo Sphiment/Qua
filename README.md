@@ -8,7 +8,7 @@ First back up your system by:
 - Registry Back up
 
 ## How to use Qua
-Download [Qua.ps1](https://github.com/Sphiment/Qua/blob/main/Qua.ps1) and run it
+Download the latest release of [Qua.ps1](https://github.com/Sphiment/Qua/releases/tag/Qua) and run it
 
 
 
