@@ -17,3 +17,4 @@ Download the latest release of [Qua.ps1](https://github.com/Sphiment/Qua/release
 - system repair sfc etc
 - better tweaks, debloating menu
 - auto reg back up + restore point
+- sphiment in the title
